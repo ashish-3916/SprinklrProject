@@ -40,6 +40,7 @@ If you want to build everything, use the `build` task:
 	$ ./gradlew build
 ----
 Gradle Version used for build : Azul Zulu 13.0.11
+
 == Maven dependency 
 [source,java,indent=0]
 ----
