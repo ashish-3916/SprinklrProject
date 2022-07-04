@@ -22,6 +22,7 @@ public class Main {
 
 		ClassScanner.findAllAnnotatedClassesInPackage(BASE_PACKAGE); // give the name of base package here .
 
+		
 	}
 }
 
