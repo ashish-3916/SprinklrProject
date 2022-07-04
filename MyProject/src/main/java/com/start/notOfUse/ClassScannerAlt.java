@@ -24,8 +24,6 @@ import org.springframework.web.context.support.StandardServletEnvironment;
  * -> After running this file will create a new package of the Annotated Classes in hierarchy at the ROOT location.
  * -> Add this packet to new project to run it .
  * -> Make sure to add the required dependencies to pom.xml
- * BUG :
- * -> container classes eg Set<Class> , List<class> etc
  * */
 public class ClassScannerAlt {
 

@@ -6,7 +6,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Vector;
 
-public class SprinklrProject {
+public class classesAndJarFilesInClassPath {
     private static HashMap<String , Vector> classCollection = new HashMap<>();
 
     public static void storeFields(String className){
