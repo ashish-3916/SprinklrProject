@@ -19,7 +19,7 @@ update the https://github.com/ashish-3916/SprinklrProject/blob/main/MyProject/sr
 ----
 
 = Spring Boot 
-=== https://github.com/spring-projects/spring-boot[link] 
+=== https://github.com/spring-projects/spring-boot[source] 
 branch : Spring 2.7.0-1
 
 == Building from Source
@@ -51,7 +51,7 @@ Gradle Version used for build : Azul Zulu 13.0.11
         </dependency>
 ----
 = Spring Framework 
-=== https://github.com/spring-projects/spring-framework[link]
+=== https://github.com/spring-projects/spring-framework[source]
 branch : Spring 5.3.20-1
 
 == Building from Source
