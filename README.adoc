@@ -24,7 +24,7 @@ update the https://github.com/ashish-3916/SprinklrProject/blob/main/MyProject/sr
 === https://github.com/spring-projects/spring-boot[source] 
 === https://drive.google.com/drive/folders/1RAbPPNI5ycHRheSuXz5Z0YwtQ6aM-tqO?usp=sharing[zip]
 
-branch : Spring 2.7.0
+branch : Spring 2.7.0-1
 
 == Building from Source
 You don't need to build from source to use Spring Boot (binaries in https://repo.spring.io[repo.spring.io]), but if you want to try out the latest and greatest, Spring Boot can be built and published to your local Maven cache using the https://docs.gradle.org/current/userguide/gradle_wrapper.html[Gradle wrapper].
@@ -57,7 +57,7 @@ Gradle Version I used for build : Azul Zulu 13.0.11
 = Spring Framework 
 === https://github.com/spring-projects/spring-framework[source]
 === https://drive.google.com/drive/folders/1RAbPPNI5ycHRheSuXz5Z0YwtQ6aM-tqO?usp=sharing[zip]
-branch : Spring 5.3.20
+branch : Spring 5.3.20-1
 
 == Building from Source
 You don't need to build from source to use Spring Boot (binaries in https://repo.spring.io[repo.spring.io]), but if you want to try out the latest and greatest, Spring Boot can be built and published to your local Maven cache using the https://docs.gradle.org/current/userguide/gradle_wrapper.html[Gradle wrapper].
