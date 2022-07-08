@@ -2,6 +2,7 @@ https://www.canva.com/design/DAFDpfCKRQM/QGUMUuzZuqU_dkPuYqCgew/view?utm_content
 
 = Class Scanner
 
+https://github.com/ashish-3916/SprinklrProject/tree/main/MyProject/src/main/java/com/start/intern[code]
 Scans the class Path and generate new class and inject dependency in them , outputs a dependecy tree and the clone package at specified location https://github.com/ashish-3916/SprinklrProject/blob/main/MyProject/src/main/java/com/start/intern/ClassScanner.java#L31[ROOT]
 
 == Usage
